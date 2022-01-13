@@ -25,7 +25,7 @@ echo "laila's birthday";
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="short.jpg" class="d-block w-100" height="650" alt="gambar">
+        <img src="short.jpg" class="d-block w-100" height="450" alt="gambar">
         <div class="carousel-caption text-right">
               <h1 class="p">KAMU DIUNDANG KE ULANG TAHUN KU!</h1>
               <p>Datang Ya, Aku tunggu Kehadiranmu</p>
