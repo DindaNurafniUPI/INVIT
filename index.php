@@ -1,4 +1,6 @@
-<?php?>
+<?php
+echo "laila's birthday";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
