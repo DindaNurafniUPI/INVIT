@@ -25,7 +25,7 @@ echo "laila's birthday";
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="short.jpg" class="d-block w-100" height="450" alt="gambar">
+        <img src="short.jpg" class="d-block w-100" height="350" alt="gambar">
         <div class="carousel-caption text-right">
               <h1 class="p">KAMU DIUNDANG KE ULANG TAHUN KU!</h1>
               <p>Datang Ya, Aku tunggu Kehadiranmu</p>
@@ -92,7 +92,7 @@ echo "laila's birthday";
             <div class="jumbotron h-100 p-5 text-white rounded-3">
               <h2>Where?</h2>
               <p>Dimana acaranya dilaksanakan? Acaranya dilaksanakan di DUFAN. Masih bingung? kamu bisa cek di maps dibawah ini ya</p>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.0457210302075!2d106.83214026753768!3d-6.124549608884181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1e1a80420c57%3A0x275b93253d2232e3!2sDunia%20Fantasi!5e0!3m2!1sen!2sid!4v1642074384704!5m2!1sen!2sid" width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.0457210302075!2d106.83214026753768!3d-6.124549608884181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1e1a80420c57%3A0x275b93253d2232e3!2sDunia%20Fantasi!5e0!3m2!1sen!2sid!4v1642074384704!5m2!1sen!2sid" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
           </div>
           <div class="col-md-6">
@@ -100,7 +100,9 @@ echo "laila's birthday";
               <h2>When?</h2>
               <p>Tanggal: 23 Februari 2022 Jam: 19:30 WIB. 
                  <br><b>Info: untuk OOTD Menggunakan baju warna pastel</b></p>
+                <left>
               <img src="a.png" width="350" height="250">
+                </left>
             </div>
           </div>
         </div>
