@@ -25,13 +25,13 @@ echo "laila's birthday";
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="short.jpg" class="d-block w-100" height="350" alt="gambar">
+        <img src="short.jpg" class="d-block w-100" height="450" alt="gambar">
         <div class="carousel-caption text-right">
               <h1 class="p">KAMU DIUNDANG KE ULANG TAHUN KU!</h1>
               <p>Datang Ya, Aku tunggu Kehadiranmu</p>
             </div>
       </div>
-      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br>
 
 
       <div class="px-4 pt-5 my-5 text-center border-bottom">
@@ -109,7 +109,7 @@ echo "laila's birthday";
         <br><br>
         <center>
         <div class="col-lg-4">
-            <img src="a.png" class="bd-placeholder-img rounded-circle" width="240" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em"></text></svg>
+            <img src="a.png" class="bd-placeholder-img rounded-circle" width="140" height="130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em"></text></svg>
     
             <h2 class="text">Laila's Birthday</h2>
             <p>GA ADA KALIAN 1, GA SERU!! so, aku tunggu ya</p>
